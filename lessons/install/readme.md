@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+My Macbook will arrive in two days, I will install Python 3, because it's the future of the language. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I will update the version when I get my Macbook. 
 
  
 
