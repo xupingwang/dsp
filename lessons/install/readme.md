@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-My Macbook will arrive in two days, I will install Python 3, because it's the future of the language. 
+I have installed Python 3, since the HackerRank Python pre-work is configure only in Python 3. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-I will update the version when I get my Macbook. 
+I have installed python 3.7.3.
 
  
 
